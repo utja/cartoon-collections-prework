@@ -1,5 +1,4 @@
-def roll_call_dwarves# code an argument here
-  # Your code here
+def roll_call_dwarves(dwarves)
   i = 0 
   while i < array.length 
     puts "#{i + 1}. #{array[i]}"
